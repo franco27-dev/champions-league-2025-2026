@@ -1,4 +1,4 @@
-# 🏆 Análisis Champions League 2025/2026
+# ⚽ Análisis Champions League 2025/2026 🏆
 
 ## 📋 Descripción
 Análisis completo de 144 partidos y 487 goles de la Champions League 2025/2026 utilizando SQL, Python, Excel y Power BI.
@@ -15,6 +15,13 @@ Análisis completo de 144 partidos y 487 goles de la Champions League 2025/2026 
 - El equipo local gana el 49.3% de los partidos
 - Promedio de 3.38 goles por partido
 - Partido más goleador: Leverkusen vs PSG (9 goles)
+
+## 📸 Visualizaciones
+![Top 10 Goleadores](top10_goleadores.png)
+![Distribución de Resultados](distribucion_resultados.png)
+![Posesión Promedio](posesion_promedio.png)
+![Heatmap Correlación](heatmap_correlacion.png)
+
 
 ## 📁 Archivos del proyecto
 | Archivo | Descripción |
